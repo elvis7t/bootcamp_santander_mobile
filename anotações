@@ -222,6 +222,14 @@ fun letters(){
     }
 }
 
+fun foreach(){
+    val sArray = "Olha essa string"
+    sArray.forEach{ l ->
+        println(l + "")
+        
+    }
+}
+
 fun main() {	
     
     for(i in 1..20){
@@ -232,5 +240,6 @@ fun main() {
     //until()
     //step(2)
     //letters()
+    //foreach()
 
 }
