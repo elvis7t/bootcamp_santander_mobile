@@ -243,3 +243,65 @@ fun main() {
     //foreach()
 
 }
+
+//Exemplo de For
+fun main(){
+    val values = IntArray(5)
+
+    values[0] = 1
+    values[1] = 7
+    values[2] = 6
+    values[3] = 3
+    values[4] = 2
+
+    for(valor in values){
+        println(valor)
+    }
+
+    values.forEach{
+        println(it)
+    }
+
+    values.forEach{ valor ->
+        println(valor)
+    }
+
+    for(index in values.indices){
+        println(values[index])
+    }
+
+    for(valor in values){
+        println(valor)
+    }
+    
+     values.forEach{ valor ->
+        println(valor)
+    }
+     
+     for(index in values.indices){
+         println(values[index])
+     }
+}
+
+//Exemplo de ArrayOfIntArray
+fun main() {
+    val values = intArrayOf(2, 3, 4, 1, 10, 7)
+
+    values.forEach {
+        println(it)
+    }
+
+    println("---------------------")
+    values.sort()
+    values.forEach {
+        println(it)
+    }
+}
+
+//Exemplo de arrayOfIntArray
+fun main() {
+  
+    val nomes2 = arrayOf("Maria", "Zazá", "Pedro")
+    nomes2.sort()
+    nomes2.forEach { println(it) }
+}
