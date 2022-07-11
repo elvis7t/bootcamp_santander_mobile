@@ -58,3 +58,20 @@ abrir o colors.xml como hiperlink
 
 no arquivo colors.xml o FF "ou os 2 primeiro elementos" representa  transparencia
 
+criar nova layout 
+adicionar um Cardviewer
+Adicionar um Layout nesse Cardviewer
+
+
+Sempre definir um id semantico para os Elementos
+Para strings (ContentDescription), usar o Extract String Resource
+e internacionalizar os textos do app
+Para criar as dimenções usar extract dimenssionas contente
+selecionando no valor do elemento e clicando alt+enter
+para textos variaveis usar o tools:text
+Valor wrap_content ajusta o elemento ao layout de foema geral
+localizar e substituir atalho ctr + h
+para o layout relicar as imagens usamos
+tools:listitem="@layout/match_item"
+tools:itemCount="3"// eSTIPULA O LIMITE
+
