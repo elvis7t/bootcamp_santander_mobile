@@ -75,3 +75,7 @@ para o layout relicar as imagens usamos
 tools:listitem="@layout/match_item"
 tools:itemCount="3"// eSTIPULA O LIMITE
 
+Icone
+
+Selecionando a pasta do projeto, click com o btn dir e selecione novo, icone
+
