@@ -59,6 +59,7 @@ abrir o colors.xml como hiperlink
 no arquivo colors.xml o FF "ou os 2 primeiro elementos" representa  transparencia
 
 criar nova layout 
+Atribuir ConstraintLayout para posicionar item
 adicionar um Cardviewer
 Adicionar um Layout nesse Cardviewer
 
@@ -70,12 +71,21 @@ Para criar as dimenções usar extract dimenssionas contente
 selecionando no valor do elemento e clicando alt+enter
 para textos variaveis usar o tools:text
 Valor wrap_content ajusta o elemento ao layout de foema geral
-localizar e substituir atalho ctr + h
-para o layout relicar as imagens usamos
+para o layout replicar as imagens usamos
 tools:listitem="@layout/match_item"
 tools:itemCount="3"// eSTIPULA O LIMITE
+tools:text="Excrever aqui"// Ferramenta pra atribuir texto direto
 
 Icone
 
-Selecionando a pasta do projeto, click com o btn dir e selecione novo, icone
+, binding.textNews::setText
 
+
+Selecionando a pasta do res/drawable do projeto, 
+click com o btn dir e selecione novo, icone
+
+#Siglas
+iv = Image View
+tv = Tesxt View
+bt = Button
+cd = Content Description

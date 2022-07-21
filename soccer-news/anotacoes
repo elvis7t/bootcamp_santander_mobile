@@ -1,0 +1,27 @@
+Descrição do Desafio
+Criar um App Android Nativo usando a linguagem de programação Java, explorando os componentes nativos mais atuais oferecidos pelo Android Jetpack. Para isso, vamos abstrair uma solução que apresente notícias sobre futebol feminino, consumidas a partir de uma API REST também criada durante este desafio de projetos. Portanto, vamos criar um App do zero, usando as principais bibliotecas de mercado (nativas e externas) e  em conformidade com os guidelines do Material Design.
+
+Parte 1: Vamos começar a abstrair uma solução que apresente notícias sobre futebol feminimo, com possibilidade de abrir o link original, favoritar e compartilhar cada notícia.
+
+Parte 2: Evoluir nosso App Android Nativo explorando não apenas features nativas, mas também bibliotecas externas (Retrofit e Picasso). Hoje vamos abstrair melhor nosso App de notícias sobre futebol feminino, consumindo nossos dados de uma API (criada via GitHub Pages).
+
+Parte 3: Vamos aprender a compartilhar nossas notícias sobre futebol feminino e favoritá-las, o que permitirá o acesso a elas de modo offline (Room). Além disso, vamos refinar ainda mais o "Soccer News", incluindo tratamentos de erro e otimizando os dados providos pela nossa API (criada no GitHub Pages).
+
+Seja criativo(a)! Explore todos os conceitos que aprendemos nessa imersão sobre desenvolvimento Mobile Nativo com Android. Nesse contexto, você pode replicar (e porque não, melhorar) este projeto prático, criando um repositório próprio e, com isso, aumentando ainda mais seu portfólio de projetos no GitHub!
+
+Dica: você pode dar um "fork" no Repositório do GitHub (App) para organizar suas alterações e evoluções, mantendo uma referência direta ao código original.
+
+Links Úteis
+A seguir, estão nossos principais materiais de apoio relacionados à este Desafio de Projetos (Lab):
+
+Repositórios:
+App: https://github.com/digitalinnovationone/soccer-news-app
+
+API: https://github.com/digitalinnovationone/soccer-news-api
+
+Slides:
+Parte 1: Android Jetpack e Material Design: Criando Apps Nativos Poderosos
+
+Parte 2: Abstraindo o Domínio de Apps Android Nativos com Java
+
+Parte 3: 
