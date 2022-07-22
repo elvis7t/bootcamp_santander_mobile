@@ -1,1 +1,1 @@
-Criando um adapter e Tesando o Nosso RecyclerView 5.15
+ão da Nossa Pseudo API no GitHub Pages 14.15

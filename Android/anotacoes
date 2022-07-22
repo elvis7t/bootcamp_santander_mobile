@@ -86,6 +86,7 @@ click com o btn dir e selecione novo, icone
 
 #Siglas
 iv = Image View
-tv = Tesxt View
+tv = Text View
 bt = Button
 cd = Content Description
+rv = Recycler View
