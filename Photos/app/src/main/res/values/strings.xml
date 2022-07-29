@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="st_selected_image">Imagem a ser selecionada pelo usuário</string>
+    <string name="st_image_selected">Selecione uma imagem</string>
+    <string name="take_picture">Tirar foto</string>
+</resources>
